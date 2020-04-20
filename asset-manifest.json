@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/muslim-reminder/static/css/main.d40c9a53.chunk.css",
+    "main.js": "/muslim-reminder/static/js/main.4b628a41.chunk.js",
+    "main.js.map": "/muslim-reminder/static/js/main.4b628a41.chunk.js.map",
+    "runtime-main.js": "/muslim-reminder/static/js/runtime-main.9107e9ee.js",
+    "runtime-main.js.map": "/muslim-reminder/static/js/runtime-main.9107e9ee.js.map",
+    "static/js/2.34a6a2d2.chunk.js": "/muslim-reminder/static/js/2.34a6a2d2.chunk.js",
+    "static/js/2.34a6a2d2.chunk.js.map": "/muslim-reminder/static/js/2.34a6a2d2.chunk.js.map",
+    "index.html": "/muslim-reminder/index.html",
+    "precache-manifest.482b6b04b452bcc62181e2f1f60831a0.js": "/muslim-reminder/precache-manifest.482b6b04b452bcc62181e2f1f60831a0.js",
+    "service-worker.js": "/muslim-reminder/service-worker.js",
+    "static/css/main.d40c9a53.chunk.css.map": "/muslim-reminder/static/css/main.d40c9a53.chunk.css.map",
+    "static/js/2.34a6a2d2.chunk.js.LICENSE.txt": "/muslim-reminder/static/js/2.34a6a2d2.chunk.js.LICENSE.txt",
+    "static/media/a7.mp3": "/muslim-reminder/static/media/a7.6da6297e.mp3",
+    "static/media/logo.jpg": "/muslim-reminder/static/media/logo.eddb358d.jpg",
+    "static/media/App.css": "/muslim-reminder/static/media/me_quran-webfont.a79b204e.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9107e9ee.js",
+    "static/js/2.34a6a2d2.chunk.js",
+    "static/css/main.d40c9a53.chunk.css",
+    "static/js/main.4b628a41.chunk.js"
+  ]
+}
